@@ -43,7 +43,11 @@ python construct_MITG.py
 python recasting_MITG.py
 ```
 
+### Stage 3: Construct Multimodal Prompt Template 
 
+```
+python construct_mm_prompt.py
+```
 
 
 
