@@ -26,4 +26,8 @@ torchaudio==2.5.1
 transformers==4.44.2  
 numpy==2.2.2  
 pandas==2.2.3 
-  
+
+
+### Step 1 - train_MITG
+
+
