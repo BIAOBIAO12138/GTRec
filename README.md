@@ -29,6 +29,6 @@ pandas==2.2.3
 
 
 ## Step  
-### -train_MITG
+### Stage 1: Train MITG (Multimodal Interest Transition Graph)
 
 
