@@ -41,7 +41,7 @@ python train_MITG.py
 ```bash
 cd GTRec/data_process/
 python train_MITG.py
-
+```bash
 
 
 
