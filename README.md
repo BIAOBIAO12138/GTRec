@@ -28,6 +28,7 @@ numpy==2.2.2
 pandas==2.2.3 
 
 
-### Step 1 - train_MITG
+### Step 1 
+   train_MITG
 
 
