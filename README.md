@@ -31,7 +31,6 @@ pandas==2.2.3
 ## Step  
 ### Stage 1: Train MITG (Multimodal Interest Transition Graph)
 <code>
-```bash
 cd GTRec/data_process/
 python train_MITG.py
 <code>
