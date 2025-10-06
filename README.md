@@ -51,14 +51,14 @@ python construct_mm_prompt.py
 
 
 ### Stage 4: Train and Test the Model 
-#### For Qwen2.5-VL-7B-Instruct Model
+#### For Qwen2.5-VL-7B-Instruct Backbone
 ```
 cd GTRec/model/
 export NCCL_P2P_LEVEL=NVL
 TORCH_NCCL_HEARTBEAT_TIMEOUT_SEC=6000000 CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7 torchrun --nproc_per_node=8 qwen.py
 ```
 
-#### For GLM-4.1V-9B-Thinking Model
+#### For GLM-4.1V-9B-Thinking Backbone
 ```
 cd GTRec/model/
 export NCCL_P2P_LEVEL=NVL
