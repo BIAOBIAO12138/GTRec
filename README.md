@@ -58,5 +58,11 @@ export NCCL_P2P_LEVEL=NVL
 TORCH_NCCL_HEARTBEAT_TIMEOUT_SEC=6000000 CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7 torchrun --nproc_per_node=8 qwen.py
 ```
 
-
+#### For GLM-4.1V-9B-Thinking Model
+```
+cd GTRec/model/
+export NCCL_P2P_LEVEL=NVL
+CUDA_VISIBLE_DEVICES=1,2,3,4,5,6,7 torchrun --nproc_per_node=7 train_GLM.py
+python test_GLM.py
+```
 
