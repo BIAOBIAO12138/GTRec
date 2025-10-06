@@ -36,7 +36,7 @@ cd GTRec/data_process/
 python train_MITG.py
 
 
-### Stage 1: Train MITG (Multimodal Interest Transition Graph)
+### Stage 1: Train MITG (Multimodal Interest Transition Graph
 
 
 
