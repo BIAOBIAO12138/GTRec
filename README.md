@@ -6,29 +6,26 @@
 
 We conduct experiments under two multimodal LLM backbones:
 
-- **Qwen2.5-VL-7B-Instruct** 
-  - torch==2.7.1, transformers==4.55.0, vllm==0.10.0, qwen-vl-utils==0.0.8  
-  - accelerate==1.9.0, bitsandbytes==0.45.2, deepspeed==0.16.2
-
-- **GLM-4.1V-9B-Thinking** 
-  - torch==2.5.1, transformers==4.44.2, modelscope==1.23.1  
-  - sentence-transformers==4.0.1, numpy==2.2.2, pandas==2.2.3
-
-
-
-
-
-
-## Requirements_Qwen-2.5-VL-7B
+**Qwen2.5-VL-7B-Instruct** 
 python==3.10
+
 torch==2.5.1
+
 torchvision==0.20.1
+
 torchaudio==2.5.1
+
 transformers==4.50.0.dev0
 
-## Requirements_GLM-4.1V-9B-Thinking
+
+**GLM-4.1V-9B-Thinking** 
 python==3.10
+
 torch==2.5.1
+
 torchvision==0.20.1
+
 torchaudio==2.5.1
+
 transformers==4.44.2
+  
