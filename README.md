@@ -34,9 +34,9 @@ pandas==2.2.3
 ```bash
 cd GTRec/data_process/
 python train_MITG.py
+```bash
 
-
-### Stage 1: Train MITG (Multimodal Interest Transition Graph
+### Stage 2: 
 
 
 
