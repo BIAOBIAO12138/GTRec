@@ -2,7 +2,7 @@
 ## Framework
 <img width="2856" height="1052" alt="edee8d5f-e51d-42fa-ac9c-669fab0b8291" src="https://github.com/user-attachments/assets/a7033603-83e6-4ed9-a9a7-0817add1abfc" />
 
-## Requirements
+## Dependencies
 
 To ensure reproducibility, we maintain **two separate virtual environments**, each corresponding to a different multimodal LLM backbone.
 
@@ -28,7 +28,7 @@ numpy==2.2.2
 pandas==2.2.3 
 
 
-### Step 1 
+### Step  
    train_MITG
 
 
