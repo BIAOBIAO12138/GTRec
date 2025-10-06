@@ -7,6 +7,7 @@
 We conduct experiments under two multimodal LLM backbones:
 
 **Qwen2.5-VL-7B-Instruct** 
+
 python==3.10
 
 torch==2.5.1
@@ -19,6 +20,7 @@ transformers==4.50.0.dev0
 
 
 **GLM-4.1V-9B-Thinking** 
+
 python==3.10
 
 torch==2.5.1
