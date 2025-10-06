@@ -39,8 +39,8 @@ python train_MITG.py
 ### Stage 2: Recasting MITG
 
 ```
-python train_MITG.py
-python train_MITG.py
+python construct_MITG.py
+python recasting_MITG.py
 ```
 
 
